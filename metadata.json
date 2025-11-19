@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "A professional resume analysis tool powered by Gemini 2.5. Upload your resume and a job description to get instant scoring, ATS feedback, and skill gap analysis.",
+  "requestFramePermissions": []
+}
